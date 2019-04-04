@@ -1,0 +1,76 @@
+{
+    "quizzes": {
+        "quiz": {
+            "id":1,
+            "category": "Animals",
+            "questions": {
+                "0": {
+                    "question": {
+                        "text": "Do you know the name of this animal?",
+                        "image": "/assets/images/animals-sprite.jpg"
+                    },
+                    "options": {
+                        "0": "Tiger",
+                        "1": "Bear",
+                        "2": "Monkey",
+                        "3": "Panda"
+                    },
+                    "answer": "Monkey"
+                },
+                "1": {
+                    "question": {
+                        "text": "Do you know the name of this animal?",
+                        "image": "/assets/images/animals-sprite.jpg"
+                    },
+                    "options": {
+                        "0": "Lion",
+                        "1": "Koala",
+                        "2": "Monkey",
+                        "3": "Panda"
+                    },
+                    "answer": "Lion"
+                },
+                "2": {
+                    "question": {
+                        "text": "Do you know the name of this animal?",
+                        "image": "/assets/images/animals-sprite.jpg"
+                    },
+                    "options": {
+                        "0": "Pig",
+                        "1": "Camel",
+                        "2": "Giraffe",
+                        "3": "Cow"
+                    },
+                    "answer": "Giraffe"
+                },
+                "3": {
+                    "question": {
+                        "text": "Do you know the name of this animal?",
+                        "image": "/assets/images/animals-sprite.jpg"
+                    },
+                    "options": {
+                        "0": "Lion",
+                        "1": "Snake",
+                        "2": "Goat",
+                        "3": "Monkey"
+                    },
+                    "answer": "Snake"
+                },
+                "4": {
+                    "question": {
+                        "text": "Do you know the name of this animal?",
+                        "image": "/assets/images/animals-sprite.jpg"
+                    },
+                    "options": {
+                        "0": "Cow",
+                        "1": "Pig",
+                        "2": "Monkey",
+                        "3": "Elephant"
+                    },
+                    "answer": "Elephant"
+                }
+                
+            }
+        }
+    }
+}
